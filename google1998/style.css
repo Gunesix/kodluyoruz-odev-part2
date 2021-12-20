@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+.baslik{
+    text-align: center;
+}
+
+.inside {
+    text-align: center;
+    background-color: #d2d2d2;
+}
+#form   {
+   width: 30%;
+}
+
+.col-1{
+    width: 20%;
+    padding: 10px;
+    background-color:lightseagreen;
+
+}
+.col-2{
+    width: 50%;
+    background-color: lightseagreen;
+    float: right;
+    margin-left: 1px;
+}
+.col-3{
+    width: 30%;
+    padding: 10px;
+    background-color: lightseagreen;
+    margin-right: 1px;
+
+}
+.class{
+   text-align: center;
+   justify-content: center;
+   display: flex;
+}
+.btn{
+    margin-right: 4px;
+}
+.footer{
+    text-align: center;
+    margin-top: 30px;
+}
