@@ -1,0 +1,84 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+p {
+    color: darkslategray;
+}
+h2{
+    color: cornflowerblue;
+}
+span{
+    color: crimson;
+}
+
+span:hover{
+    color: darkred;
+}
+.menu {
+    background-color: beige;
+    max-height: 50px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.menu-footer {
+    background-color: black;
+    max-height: 50px;
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+.menu-footer a {
+    padding-left: 50px;
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.menu a {
+    padding-left: 50px;
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.menu a:hover {
+    padding-left: 50px;
+    text-decoration: none;
+    color: cornflowerblue;
+    opacity: 0.5;
+}
+
+.menu .logo {
+    float: left;
+    margin-top: -7px;
+}
+
+#baslik {
+
+    color: goldenrod;
+    padding-top: 30px;
+
+}
+
+.urunler {
+    text-align: left;
+    margin-left: 45%;
+    margin-right: 40%;
+
+}
+
+.urunler a {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+
+.urun img {
+    width: 200px;
+    height: 100px;
+}
