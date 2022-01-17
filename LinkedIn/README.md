@@ -4,8 +4,8 @@ Bu eğitimimizde Linkedin'u cloneluyoruz
 
 [LinkedIn](linked.in) Clone dersimiz oldukca zor olup zevkli bir çalışma oldu.
 
-![Screen](Linkedin.png)
-![Screen](Linkedin-2.png)
+![Screen](linkedin.png)
+![Screen](linkedin-2.png)
 
 
 
